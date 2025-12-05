@@ -1,0 +1,26 @@
+<template>
+    <div>
+        <h1>contact.</h1>
+
+        <form>
+            <div>
+                <label for="name">Name</label><br />
+                <input type="text" id="name" name="name" placeholder="Your name" />
+            </div>
+
+            <div>
+                <label for="email">Email</label><br />
+                <input type="email" id="email" name="email" placeholder="your@email.com" />
+            </div>
+
+            <div>
+                <label for="message">Message</label><br />
+                <textarea id="message" name="message" rows="5" placeholder="Write your message here..."></textarea>
+            </div>
+
+            <div>
+                <button type="submit">Send Message</button>
+            </div>
+        </form>
+    </div>
+</template>
