@@ -1,0 +1,1 @@
+import{p as r,_ as t,c as n,a as s,o}from"./aHPvOtAd.js";const a=r("/images/resume.png"),c={};function l(m,e){return o(),n("div",null,[...e[0]||(e[0]=[s("h1",null,"resume.",-1),s("img",{src:a,alt:"Resume"},null,-1)])])}const _=t(c,[["render",l]]);export{_ as default};
